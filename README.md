@@ -1,0 +1,1 @@
+AI-powered tool that matches resumes to job descriptions, scoring fit from 0–100 and highlighting missing keywords with improvement suggestions. Built with React, Node.js, Express, and Groq's Llama 3.3 70B.
